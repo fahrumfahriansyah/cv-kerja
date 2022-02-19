@@ -1,0 +1,45 @@
+body .jumbotron{
+	background-image: url(../data/portfolio/img/gambar1.jpg);
+	background-size: cover;
+    background-position: 0 30px;
+    
+
+}
+.jumbotron img{
+	width: 200px;
+	height: 200px;
+	border-bottom: 4px solid black;
+	padding-top: 70px;
+
+}
+
+.tes{
+	background-image: url(../data/portfolio/img/gambar.jpg);
+	padding: 20px;
+	color: white;
+	margin-top: 20px;
+}
+.artikel{
+	min-height: 600px;
+}
+body{
+ background-color: black;
+}
+.profile{
+	min-height: 1000px;
+}
+.profile h2{
+	padding-bottom: 20px;
+}
+.gambar{
+	background-image: url(../data/portfolio/img/gambar.jpg);
+}
+.list{
+     min-height: 600px;
+}
+.list h2{
+	padding-bottom: 20px;
+}
+.footer{
+	color: darkgrey;
+}
